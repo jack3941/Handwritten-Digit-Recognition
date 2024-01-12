@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition
+# Train a neural network to classify handwritten digits using PyTorch.
